@@ -7,13 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C80797001B006A280015189C /* icon58x58.png in Resources */ = {isa = PBXBuildFile; fileRef = C80796FD1B006A280015189C /* icon58x58.png */; };
+		C8274EC61B2966D600545FBE /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8274EC51B2966D600545FBE /* Storyboard.storyboard */; };
+		C8274EC81B29681E00545FBE /* MailACT.png in Resources */ = {isa = PBXBuildFile; fileRef = C8274EC71B29681E00545FBE /* MailACT.png */; };
+		C8274ECD1B298D9700545FBE /* SplashScn320*480.png in Resources */ = {isa = PBXBuildFile; fileRef = C8274EC91B298D9700545FBE /* SplashScn320*480.png */; };
+		C8274ECE1B298D9700545FBE /* SplashScn640*960.png in Resources */ = {isa = PBXBuildFile; fileRef = C8274ECA1B298D9700545FBE /* SplashScn640*960.png */; };
+		C8274ECF1B298D9700545FBE /* SplashScn750*1334.png in Resources */ = {isa = PBXBuildFile; fileRef = C8274ECB1B298D9700545FBE /* SplashScn750*1334.png */; };
+		C8274ED01B298D9700545FBE /* SplashScn1242*2208.png in Resources */ = {isa = PBXBuildFile; fileRef = C8274ECC1B298D9700545FBE /* SplashScn1242*2208.png */; };
 		C83EB5321A3709340048941B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C83EB5311A3709340048941B /* main.m */; };
 		C83EB5351A3709340048941B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C83EB5341A3709340048941B /* AppDelegate.m */; };
 		C83EB5381A3709340048941B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C83EB5371A3709340048941B /* ViewController.m */; };
 		C83EB53B1A3709340048941B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C83EB5391A3709340048941B /* Main.storyboard */; };
-		C83EB53D1A3709340048941B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C83EB53C1A3709340048941B /* Images.xcassets */; };
-		C83EB5401A3709340048941B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C83EB53E1A3709340048941B /* LaunchScreen.xib */; };
 		C83EB54C1A3709340048941B /* DosageCalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C83EB54B1A3709340048941B /* DosageCalculatorTests.m */; };
+		C83EB5561A370A440048941B /* arrow-down.png in Resources */ = {isa = PBXBuildFile; fileRef = C83EB5551A370A440048941B /* arrow-down.png */; };
+		C83EB5631A370AAF0048941B /* DosageuserMatchlist.m in Sources */ = {isa = PBXBuildFile; fileRef = C83EB5621A370AAF0048941B /* DosageuserMatchlist.m */; };
+		C8939D751B04A3DC003A69D6 /* SplashScn.png in Resources */ = {isa = PBXBuildFile; fileRef = C8939D741B04A3DC003A69D6 /* SplashScn.png */; };
+		C898DAF41A4144F00035315A /* DosageValue.m in Sources */ = {isa = PBXBuildFile; fileRef = C898DAF31A4144F00035315A /* DosageValue.m */; };
+		C898DB191A4182010035315A /* Images-4.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C898DB181A4182010035315A /* Images-4.xcassets */; };
+		C89B999B1A6F7607000632ED /* ActivationClass.m in Sources */ = {isa = PBXBuildFile; fileRef = C89B999A1A6F7607000632ED /* ActivationClass.m */; };
+		C89CBDF41A43FBD900999D13 /* Registration.m in Sources */ = {isa = PBXBuildFile; fileRef = C89CBDF31A43FBD900999D13 /* Registration.m */; };
+		C89CBDFE1A442C7200999D13 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89CBDFD1A442C7200999D13 /* AVFoundation.framework */; };
+		C89CBE001A442C8000999D13 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89CBDFF1A442C8000999D13 /* Foundation.framework */; };
+		C89CBE021A442C9500999D13 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89CBE011A442C9500999D13 /* CFNetwork.framework */; };
+		C89CBE041A442C9E00999D13 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89CBE031A442C9E00999D13 /* CoreTelephony.framework */; };
+		C89CBE061A442CAA00999D13 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89CBE051A442CAA00999D13 /* SystemConfiguration.framework */; };
+		C89CBE081A442CB400999D13 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C89CBE071A442CB400999D13 /* CoreFoundation.framework */; };
+		C8B742341AFB66540026FACD /* txt.png in Resources */ = {isa = PBXBuildFile; fileRef = C8B742331AFB66540026FACD /* txt.png */; };
+		C8B742381AFB67300026FACD /* Donebtn.png in Resources */ = {isa = PBXBuildFile; fileRef = C8B742371AFB672F0026FACD /* Donebtn.png */; };
+		C8B742441AFB71060026FACD /* Btnback.png in Resources */ = {isa = PBXBuildFile; fileRef = C8B742411AFB71060026FACD /* Btnback.png */; };
+		C8B742451AFB71060026FACD /* BtnCalDosg.png in Resources */ = {isa = PBXBuildFile; fileRef = C8B742421AFB71060026FACD /* BtnCalDosg.png */; };
+		C8B742461AFB71060026FACD /* BtnRecal.png in Resources */ = {isa = PBXBuildFile; fileRef = C8B742431AFB71060026FACD /* BtnRecal.png */; };
+		C8B7424A1AFB755D0026FACD /* DOSAGE.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C8B742491AFB755D0026FACD /* DOSAGE.jpg */; };
+		C8B7424E1AFB870F0026FACD /* arrowdown.png in Resources */ = {isa = PBXBuildFile; fileRef = C8B7424D1AFB870F0026FACD /* arrowdown.png */; };
+		C8D467AC1B299E2400080DD2 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8D467AB1B299E2400080DD2 /* MainStoryboard.storyboard */; };
+		C8D467AE1B29A11300080DD2 /* Backgroud375*667.png in Resources */ = {isa = PBXBuildFile; fileRef = C8D467AD1B29A11200080DD2 /* Backgroud375*667.png */; };
+		C8FE99571A42CDE100FAA68B /* Btncalamonex.png in Resources */ = {isa = PBXBuildFile; fileRef = C8FE99561A42CDE100FAA68B /* Btncalamonex.png */; };
+		FA358D6C1B00D7DD00D675DA /* icon80x80.png in Resources */ = {isa = PBXBuildFile; fileRef = FA358D6A1B00D7DD00D675DA /* icon80x80.png */; };
+		FA358D6D1B00D7DD00D675DA /* icon120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = FA358D6B1B00D7DD00D675DA /* icon120x120.png */; };
+		FA358D6F1B00D98300D675DA /* Backgroud.png in Resources */ = {isa = PBXBuildFile; fileRef = FA358D6E1B00D98300D675DA /* Backgroud.png */; };
+		FA358D711B00DA6200D675DA /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = FA358D701B00DA6200D675DA /* bg.png */; };
+		FA358D7A1B00E7F300D675DA /* Launch Screen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FA358D791B00E7F300D675DA /* Launch Screen.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +60,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C80796FD1B006A280015189C /* icon58x58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon58x58.png; sourceTree = "<group>"; };
+		C8274EC51B2966D600545FBE /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		C8274EC71B29681E00545FBE /* MailACT.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MailACT.png; sourceTree = "<group>"; };
+		C8274EC91B298D9700545FBE /* SplashScn320*480.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SplashScn320*480.png"; sourceTree = "<group>"; };
+		C8274ECA1B298D9700545FBE /* SplashScn640*960.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SplashScn640*960.png"; sourceTree = "<group>"; };
+		C8274ECB1B298D9700545FBE /* SplashScn750*1334.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SplashScn750*1334.png"; sourceTree = "<group>"; };
+		C8274ECC1B298D9700545FBE /* SplashScn1242*2208.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SplashScn1242*2208.png"; sourceTree = "<group>"; };
 		C83EB52C1A3709340048941B /* DosageCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DosageCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C83EB5301A3709340048941B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C83EB5311A3709340048941B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -35,11 +75,41 @@
 		C83EB5361A3709340048941B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		C83EB5371A3709340048941B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		C83EB53A1A3709340048941B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C83EB53C1A3709340048941B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		C83EB53F1A3709340048941B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		C83EB5451A3709340048941B /* DosageCalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DosageCalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C83EB54A1A3709340048941B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C83EB54B1A3709340048941B /* DosageCalculatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DosageCalculatorTests.m; sourceTree = "<group>"; };
+		C83EB5551A370A440048941B /* arrow-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-down.png"; sourceTree = "<group>"; };
+		C83EB5611A370AAA0048941B /* DosageuserMatchlist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DosageuserMatchlist.h; sourceTree = "<group>"; };
+		C83EB5621A370AAF0048941B /* DosageuserMatchlist.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DosageuserMatchlist.m; sourceTree = "<group>"; };
+		C8939D741B04A3DC003A69D6 /* SplashScn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SplashScn.png; sourceTree = "<group>"; };
+		C898DAF21A4144F00035315A /* DosageValue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DosageValue.h; sourceTree = "<group>"; };
+		C898DAF31A4144F00035315A /* DosageValue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DosageValue.m; sourceTree = "<group>"; };
+		C898DB181A4182010035315A /* Images-4.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Images-4.xcassets"; sourceTree = "<group>"; };
+		C89B99991A6F7607000632ED /* ActivationClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ActivationClass.h; sourceTree = "<group>"; };
+		C89B999A1A6F7607000632ED /* ActivationClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ActivationClass.m; sourceTree = "<group>"; };
+		C89CBDF21A43FBD900999D13 /* Registration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Registration.h; sourceTree = "<group>"; };
+		C89CBDF31A43FBD900999D13 /* Registration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Registration.m; sourceTree = "<group>"; };
+		C89CBDFD1A442C7200999D13 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		C89CBDFF1A442C8000999D13 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C89CBE011A442C9500999D13 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		C89CBE031A442C9E00999D13 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		C89CBE051A442CAA00999D13 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		C89CBE071A442CB400999D13 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
+		C8B742331AFB66540026FACD /* txt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = txt.png; sourceTree = "<group>"; };
+		C8B742371AFB672F0026FACD /* Donebtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Donebtn.png; sourceTree = "<group>"; };
+		C8B742411AFB71060026FACD /* Btnback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Btnback.png; sourceTree = "<group>"; };
+		C8B742421AFB71060026FACD /* BtnCalDosg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BtnCalDosg.png; sourceTree = "<group>"; };
+		C8B742431AFB71060026FACD /* BtnRecal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BtnRecal.png; sourceTree = "<group>"; };
+		C8B742491AFB755D0026FACD /* DOSAGE.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DOSAGE.jpg; sourceTree = "<group>"; };
+		C8B7424D1AFB870F0026FACD /* arrowdown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrowdown.png; sourceTree = "<group>"; };
+		C8D467AB1B299E2400080DD2 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
+		C8D467AD1B29A11200080DD2 /* Backgroud375*667.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Backgroud375*667.png"; sourceTree = "<group>"; };
+		C8FE99561A42CDE100FAA68B /* Btncalamonex.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Btncalamonex.png; sourceTree = "<group>"; };
+		FA358D6A1B00D7DD00D675DA /* icon80x80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon80x80.png; sourceTree = "<group>"; };
+		FA358D6B1B00D7DD00D675DA /* icon120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon120x120.png; sourceTree = "<group>"; };
+		FA358D6E1B00D98300D675DA /* Backgroud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Backgroud.png; sourceTree = "<group>"; };
+		FA358D701B00DA6200D675DA /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+		FA358D791B00E7F300D675DA /* Launch Screen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "Launch Screen.xib"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +117,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C89CBE081A442CB400999D13 /* CoreFoundation.framework in Frameworks */,
+				C89CBE061A442CAA00999D13 /* SystemConfiguration.framework in Frameworks */,
+				C89CBE041A442C9E00999D13 /* CoreTelephony.framework in Frameworks */,
+				C89CBE021A442C9500999D13 /* CFNetwork.framework in Frameworks */,
+				C89CBE001A442C8000999D13 /* Foundation.framework in Frameworks */,
+				C89CBDFE1A442C7200999D13 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +139,13 @@
 		C83EB5231A3709340048941B = {
 			isa = PBXGroup;
 			children = (
+				C89CBE071A442CB400999D13 /* CoreFoundation.framework */,
+				C89CBE051A442CAA00999D13 /* SystemConfiguration.framework */,
+				C89CBE031A442C9E00999D13 /* CoreTelephony.framework */,
+				C89CBE011A442C9500999D13 /* CFNetwork.framework */,
+				C89CBDFF1A442C8000999D13 /* Foundation.framework */,
+				C89CBDFD1A442C7200999D13 /* AVFoundation.framework */,
+				C83EB5551A370A440048941B /* arrow-down.png */,
 				C83EB52E1A3709340048941B /* DosageCalculator */,
 				C83EB5481A3709340048941B /* DosageCalculatorTests */,
 				C83EB52D1A3709340048941B /* Products */,
@@ -83,11 +166,22 @@
 			children = (
 				C83EB5331A3709340048941B /* AppDelegate.h */,
 				C83EB5341A3709340048941B /* AppDelegate.m */,
+				FA358D791B00E7F300D675DA /* Launch Screen.xib */,
 				C83EB5361A3709340048941B /* ViewController.h */,
 				C83EB5371A3709340048941B /* ViewController.m */,
 				C83EB5391A3709340048941B /* Main.storyboard */,
-				C83EB53C1A3709340048941B /* Images.xcassets */,
-				C83EB53E1A3709340048941B /* LaunchScreen.xib */,
+				C8274EC51B2966D600545FBE /* Storyboard.storyboard */,
+				C8D467AB1B299E2400080DD2 /* MainStoryboard.storyboard */,
+				C83EB5611A370AAA0048941B /* DosageuserMatchlist.h */,
+				C83EB5621A370AAF0048941B /* DosageuserMatchlist.m */,
+				C898DAF21A4144F00035315A /* DosageValue.h */,
+				C898DAF31A4144F00035315A /* DosageValue.m */,
+				C89CBDF21A43FBD900999D13 /* Registration.h */,
+				C89CBDF31A43FBD900999D13 /* Registration.m */,
+				C89B99991A6F7607000632ED /* ActivationClass.h */,
+				C89B999A1A6F7607000632ED /* ActivationClass.m */,
+				C898DB001A41651E0035315A /* images */,
+				C898DB181A4182010035315A /* Images-4.xcassets */,
 				C83EB52F1A3709340048941B /* Supporting Files */,
 			);
 			path = DosageCalculator;
@@ -117,6 +211,33 @@
 				C83EB54A1A3709340048941B /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C898DB001A41651E0035315A /* images */ = {
+			isa = PBXGroup;
+			children = (
+				C8D467AD1B29A11200080DD2 /* Backgroud375*667.png */,
+				C8274EC91B298D9700545FBE /* SplashScn320*480.png */,
+				C8274ECA1B298D9700545FBE /* SplashScn640*960.png */,
+				C8274ECB1B298D9700545FBE /* SplashScn750*1334.png */,
+				C8274ECC1B298D9700545FBE /* SplashScn1242*2208.png */,
+				C8274EC71B29681E00545FBE /* MailACT.png */,
+				C8939D741B04A3DC003A69D6 /* SplashScn.png */,
+				FA358D701B00DA6200D675DA /* bg.png */,
+				FA358D6E1B00D98300D675DA /* Backgroud.png */,
+				FA358D6A1B00D7DD00D675DA /* icon80x80.png */,
+				FA358D6B1B00D7DD00D675DA /* icon120x120.png */,
+				C80796FD1B006A280015189C /* icon58x58.png */,
+				C8B7424D1AFB870F0026FACD /* arrowdown.png */,
+				C8B742491AFB755D0026FACD /* DOSAGE.jpg */,
+				C8B742411AFB71060026FACD /* Btnback.png */,
+				C8B742421AFB71060026FACD /* BtnCalDosg.png */,
+				C8B742431AFB71060026FACD /* BtnRecal.png */,
+				C8B742371AFB672F0026FACD /* Donebtn.png */,
+				C8B742331AFB66540026FACD /* txt.png */,
+				C8FE99561A42CDE100FAA68B /* Btncalamonex.png */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,14 +284,16 @@
 		C83EB5241A3709340048941B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = highland;
 				TargetAttributes = {
 					C83EB52B1A3709340048941B = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = 7V626KV38G;
 					};
 					C83EB5441A3709340048941B = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = 7V626KV38G;
 						TestTargetID = C83EB52B1A3709340048941B;
 					};
 				};
@@ -199,9 +322,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA358D6D1B00D7DD00D675DA /* icon120x120.png in Resources */,
+				C8274EC81B29681E00545FBE /* MailACT.png in Resources */,
+				FA358D6C1B00D7DD00D675DA /* icon80x80.png in Resources */,
+				FA358D711B00DA6200D675DA /* bg.png in Resources */,
+				C8274EC61B2966D600545FBE /* Storyboard.storyboard in Resources */,
+				C898DB191A4182010035315A /* Images-4.xcassets in Resources */,
+				C8FE99571A42CDE100FAA68B /* Btncalamonex.png in Resources */,
+				FA358D7A1B00E7F300D675DA /* Launch Screen.xib in Resources */,
 				C83EB53B1A3709340048941B /* Main.storyboard in Resources */,
-				C83EB5401A3709340048941B /* LaunchScreen.xib in Resources */,
-				C83EB53D1A3709340048941B /* Images.xcassets in Resources */,
+				C83EB5561A370A440048941B /* arrow-down.png in Resources */,
+				C8B742341AFB66540026FACD /* txt.png in Resources */,
+				C8D467AC1B299E2400080DD2 /* MainStoryboard.storyboard in Resources */,
+				C8939D751B04A3DC003A69D6 /* SplashScn.png in Resources */,
+				C8B742451AFB71060026FACD /* BtnCalDosg.png in Resources */,
+				C8274ECF1B298D9700545FBE /* SplashScn750*1334.png in Resources */,
+				C8D467AE1B29A11300080DD2 /* Backgroud375*667.png in Resources */,
+				C8B7424E1AFB870F0026FACD /* arrowdown.png in Resources */,
+				C8274ED01B298D9700545FBE /* SplashScn1242*2208.png in Resources */,
+				C80797001B006A280015189C /* icon58x58.png in Resources */,
+				C8274ECE1B298D9700545FBE /* SplashScn640*960.png in Resources */,
+				C8B7424A1AFB755D0026FACD /* DOSAGE.jpg in Resources */,
+				C8B742461AFB71060026FACD /* BtnRecal.png in Resources */,
+				C8274ECD1B298D9700545FBE /* SplashScn320*480.png in Resources */,
+				C8B742381AFB67300026FACD /* Donebtn.png in Resources */,
+				FA358D6F1B00D98300D675DA /* Backgroud.png in Resources */,
+				C8B742441AFB71060026FACD /* Btnback.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -220,8 +366,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				C83EB5381A3709340048941B /* ViewController.m in Sources */,
+				C898DAF41A4144F00035315A /* DosageValue.m in Sources */,
+				C89CBDF41A43FBD900999D13 /* Registration.m in Sources */,
 				C83EB5351A3709340048941B /* AppDelegate.m in Sources */,
 				C83EB5321A3709340048941B /* main.m in Sources */,
+				C89B999B1A6F7607000632ED /* ActivationClass.m in Sources */,
+				C83EB5631A370AAF0048941B /* DosageuserMatchlist.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,14 +402,6 @@
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		C83EB53E1A3709340048941B /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C83EB53F1A3709340048941B /* Base */,
-			);
-			name = LaunchScreen.xib;
-			sourceTree = "<group>";
-		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -280,6 +422,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -297,10 +440,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "8f62b064-6806-449c-8d08-decee9ae55eb";
 				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Debug;
 		};
@@ -321,7 +466,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Arun Rajesh (FLABJWXEU5)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Arun Rajesh (FLABJWXEU5)";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -332,8 +478,9 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "8f62b064-6806-449c-8d08-decee9ae55eb";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -342,20 +489,37 @@
 		C83EB5501A3709340048941B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Arun Rajesh (FLABJWXEU5)";
+				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = DosageCalculator/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		C83EB5511A3709340048941B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Arun Rajesh (FLABJWXEU5)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Arun Rajesh (FLABJWXEU5)";
 				INFOPLIST_FILE = DosageCalculator/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -363,6 +527,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -374,6 +540,7 @@
 				INFOPLIST_FILE = DosageCalculatorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DosageCalculator.app/DosageCalculator";
 			};
 			name = Debug;
@@ -382,6 +549,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -389,6 +558,7 @@
 				INFOPLIST_FILE = DosageCalculatorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DosageCalculator.app/DosageCalculator";
 			};
 			name = Release;
@@ -412,6 +582,7 @@
 				C83EB5511A3709340048941B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C83EB5521A3709340048941B /* Build configuration list for PBXNativeTarget "DosageCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +591,7 @@
 				C83EB5541A3709340048941B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

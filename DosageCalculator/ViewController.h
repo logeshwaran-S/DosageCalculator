@@ -9,6 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
+    
+}
+-(IBAction)DosageList:(id)sender;
 
 
 @end
